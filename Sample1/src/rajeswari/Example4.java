@@ -10,5 +10,4 @@ public class Example4 {
 			System.out.println(args[0]+","+args[1]);
 	}
 
-
 }
